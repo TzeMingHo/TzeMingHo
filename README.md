@@ -4,14 +4,22 @@ I am a **Software Engineer** currently training with **CodeYourFuture**, transit
 
 I am now focusing on applying to software development. I am working hard to build a solid foundation in full-stack JavaScript, writing clear code, and learning how to properly test applications.
 
+### 📬 Let's Connect!
+
+I am currently looking for full-stack, backend, or software engineering roles where I can leverage my economics/accounting/finance background alongside my engineering toolkit.
+
+*   **Location:** Liverpool, UK (Open to Hybrid / Remote)
+*   **Email:** tzemingho@gmail.com
+*   **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tzemingho)
+
 ---
 
 ### 🛠️ Core Tech Stack
 
-*   **Languages:** JavaScript (ES6+), SQL, HTML5, CSS3, Python
-*   **Backend:** Node.js, Express
-*   **Frontend:** React, Responsive Web Design
-*   **Tools & Testing:** PostgreSQL, Docker, Git/GitHub, Ubuntu Linux, Jest, Node:Test
+*   **Languages:** JavaScript (ES6+), SQL, HTML5, CSS3, Python, Java(currently learning)
+*   **Backend & Databases:** Node.js, Express, SQL
+*   **Frontend Development:** React, HTML5, CSS3
+*   **Tools & Testing Environment:** Git/GitHub, Docker, Ubuntu Linux, Jest, Node:Test
 
 ---
 
@@ -37,13 +45,6 @@ An individual data-analysis project designed to parse and extract valuable insig
 
 ---
 
-### 📬 Let's Connect!
-
-I am currently looking for full-stack, backend, or software engineering roles where I can leverage my economics/accounting/finance background alongside my engineering toolkit.
-
-*   **Location:** Liverpool, UK (Open to Hybrid / Remote)
-*   **Email:** tzemingho@gmail.com
-*   **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tzemingho)
 
 <!--
 **TzeMingHo/TzeMingHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
