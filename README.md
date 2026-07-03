@@ -16,7 +16,7 @@ I am currently looking for full-stack, backend, or software engineering roles wh
 
 ### 🛠️ Core Tech Stack
 
-*   **Languages:** JavaScript (ES6+), SQL, HTML5, CSS3, Python, Java(currently learning)
+*   **Languages:** JavaScript (ES6+), SQL, HTML5, CSS3, Python, Java (currently learning)
 *   **Backend & Databases:** Node.js, Express, SQL
 *   **Frontend Development:** React, HTML5, CSS3
 *   **Tools & Testing Environment:** Git/GitHub, Docker, Ubuntu Linux, Jest, Node:Test
