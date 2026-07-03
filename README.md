@@ -6,7 +6,7 @@ I am now focusing on applying to software development. I am working hard to buil
 
 ### 📬 Let's Connect!
 
-I am currently looking for full-stack, backend, or software engineering roles where I can leverage my economics/accounting/finance background alongside my engineering toolkit.
+I am currently looking for a junior role in a structured, collaborative environment where I can contribute honestly, write reliable tests, and learn from a real-world team workflow.
 
 *   **Location:** Liverpool, UK (Open to Hybrid / Remote)
 *   **Email:** tzemingho@gmail.com
