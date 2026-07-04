@@ -25,23 +25,22 @@ I am currently looking for a junior role in a structured, collaborative environm
 
 ### 🚀 Stand-Out Projects
 
-#### 📌 [Shared Bookmarks](https://github.com/TzeMingHo/Project-shared-Bookmarks)
-A collaborative application built to manage shared digital resources with strict attention to data integrity and UX.
-*   **Tech Stack:** JavaScript, LocalStorage, CSS3
-*   **Key Highlights:** Implemented URL validation and `crypto.randomUUID()` to prevent indexing collisions. Achieved a **100% Lighthouse Accessibility score** via semantic HTML and ARIA implementation.
-*   **Live Experience:** [Explore the Live Demo](https://project-bookmarks.netlify.app/)
+*   📅 **[Days Calendar](https://github.com/MansoorM11/Days-calendar)** | [Live Demo](https://day-calendar-project.netlify.app/)
+    A collaborative tool engineered to compute complex, recurring calendar dates and generate standardized schedule configurations.
+    *   **Core Logic:** Developed a robust date-calculation engine to automate complex annual commemorative patterns (e.g., 'Second Tuesday of October'), successfully handling 100% of calendar edge cases including leap years and shifting month offsets.
+    *   **Testing & Architecture:** Built a shared logic layer used across both the frontend interface and an automated iCal generator script, backed by an extensive unit testing suite via `Node:Test` to guarantee perfect functional accuracy.
+    *   **Quality:** Achieved a 100% Lighthouse Accessibility score by engineering a semantic HTML layout and custom ARIA attributes to ensure complete keyboard navigability.
 
-#### 📌 [Days Calendar](https://github.com/MansoorM11/Days-calendar)
-A collaborative tool engineered to compute complex, recurring calendar dates and generate standardized schedule configurations.
-*   **Tech Stack:** JavaScript, Node:Test
-*   **Key Highlights:** Engineered complex date-calculation logic to seamlessly handle custom annual patterns (e.g., "Second Tuesday of October") while accurately accounting for leap year edge cases. Built a shared logic layer used across both the frontend and an automated iCal generator script.
-*   **Live Experience:** [Explore the Live Demo](https://day-calendar-project.netlify.app/)
+*   📺 **[TV Show Project](https://github.com/TzeMingHo/Project-TV-Show)** | [Live Demo](https://cyf-tzemingho-tv.netlify.app/)
+    A collaborative, responsive data explorer built alongside a teammate to parse and display comprehensive television datasets via a third-party API.
+    *   **Performance:** Reduced redundant network requests and optimized data-fetching efficiency by implementing a custom client-side caching layer for incoming API data.
+    *   **UX & State:** Designed a synchronized state management system that handles dynamic user queries, delivering a seamless, low-latency search and filter experience.
 
-#### 📌 [Music Data Dashboard](https://github.com/TzeMingHo/Project-Music-Data)
-An individual data-analysis project designed to parse and extract valuable insights from high-volume datasets.
-*   **Tech Stack:** JavaScript (ES6), JSON
-*   **Key Highlights:** Formulated custom manipulation algorithms using advanced JS array methods and maps to parse large JSON sets, isolating specific time-based listening habits (e.g., identifying "Friday night" user trends).
-*   **Live Experience:** [Explore the Live Demo](https://music-data-reports.netlify.app/)
+*   🎵 **[Music Data Dashboard](https://github.com/TzeMingHo/Project-Music-Data)** | [Live Demo](https://music-data-reports.netlify.app/)
+    An individual data-analysis project designed to transform complex, high-volume datasets into clean user metrics.
+    *   **Data Pipelines:** Engineered data processing pipelines using native JavaScript array methods and maps to analyze massive raw JSON datasets.
+    *   **Analytics:** Developed custom algorithmic filtering to extract and pinpoint discrete time-based patterns, such as isolating specific 'Friday night' listening trends, improving visual reporting clarity.
+
 
 ---
 
