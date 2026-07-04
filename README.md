@@ -1,6 +1,6 @@
 ## Hi there, I'm Brian 👋
 
-I am a **Software Engineer** currently training with **CodeYourFuture**, transitioning into tech from a background in Economics and financial auditing (CFA Level II). 
+I am a **Junior Software Engineer** currently training with **CodeYourFuture**, transitioning into tech from a background in Economics and financial auditing (CFA Level II). 
 
 I am now focusing on applying to software development. I am working hard to build a solid foundation in full-stack JavaScript, writing clear code, and learning how to properly test applications.
 
