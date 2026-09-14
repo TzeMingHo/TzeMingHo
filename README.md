@@ -38,7 +38,7 @@ contribute to real products while continuing to grow as a developer.
 
 ## 🚀 Stand-Out Projects
 
-### 🤝 Mentor Matching Platform
+### 🤝 [Mentor Matching Platform](https://github.com/Zobeir-Rigi/Career-Mentors-Matching) | [Live Demo](https://mentormatching.grads.hosting.cyf.academy/)
 
 A full-stack platform designed to connect mentors and mentees and support
 the mentorship journey from profile creation through matching and active
