@@ -1,61 +1,79 @@
+```markdown
 ## Hi there, I'm Brian 👋
 
-I am a **Junior Software Engineer** currently training with **CodeYourFuture**, transitioning into tech from a background in Economics and financial auditing (CFA Level II). 
+I'm a **software engineer in training at CodeYourFuture**, transitioning into tech after a background in Economics and financial auditing, including completing CFA Level II.
 
-I am now focusing on software development. I am working hard to build a solid foundation in full-stack JavaScript, writing clear code, and learning how to properly test applications.
+I enjoy solving problems and understanding how systems work. I'm currently focused on **full-stack JavaScript and TypeScript development**, building reliable applications, writing meaningful tests, and improving my understanding of how frontend, backend, databases, and deployment fit together.
 
-### 📬 Let's Connect!
+I'm particularly interested in working in a collaborative engineering team where I can contribute, learn from experienced developers, and continue developing good software engineering practices.
 
-I am currently looking for a junior role in a structured, collaborative environment where I can contribute honestly, write reliable tests, and learn from a real-world team workflow.
+## 📬 Let's Connect!
 
-*   **Location:** Liverpool, UK (Open to Hybrid / Remote)
-*   **Email:** tzemingho@gmail.com
-*   **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tzemingho)
+I'm currently looking for a **junior software engineering role** where I can contribute to real products while continuing to grow as a developer.
 
----
-
-### 🛠️ Core Tech Stack
-
-*   **Languages:** JavaScript (ES6+), SQL, HTML5, CSS3, Python, Java (currently learning)
-*   **Backend & Databases:** Node.js, Express, SQL
-*   **Frontend Development:** React, HTML5, CSS3
-*   **Tools & Testing Environment:** Git/GitHub, Docker, Ubuntu Linux, Jest, Node:Test
+- **Location:** Liverpool, UK — open to Hybrid / Remote
+- **Email:** tzemingho@gmail.com
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tzemingho)
 
 ---
 
-### 🚀 Stand-Out Projects
+## 🛠️ Core Tech Stack
 
-*   📅 **[Days Calendar](https://github.com/MansoorM11/Days-calendar)** | [Live Demo](https://day-calendar-project.netlify.app/)
-    A collaborative tool engineered to compute complex, recurring calendar dates and generate standardized schedule configurations.
-    *   **Core Logic:** Developed a robust date-calculation engine to automate complex annual commemorative patterns (e.g., 'Second Tuesday of October'), successfully handling 100% of calendar edge cases including leap years and shifting month offsets.
-    *   **Testing & Architecture:** Built a shared logic layer used across both the frontend interface and an automated iCal generator script, backed by an extensive unit testing suite via `Node:Test` to guarantee perfect functional accuracy.
-    *   **Quality:** Achieved a 100% Lighthouse Accessibility score by engineering a semantic HTML layout and custom ARIA attributes to ensure complete keyboard navigability.
-
-*   📺 **[TV Show Project](https://github.com/TzeMingHo/Project-TV-Show)** | [Live Demo](https://cyf-tzemingho-tv.netlify.app/)
-    A collaborative, responsive data explorer built alongside a teammate to parse and display comprehensive television datasets via a third-party API.
-    *   **Performance:** Reduced redundant network requests and optimized data-fetching efficiency by implementing a custom client-side caching layer for incoming API data.
-    *   **UX & State:** Designed a synchronized state management system that handles dynamic user queries, delivering a seamless, low-latency search and filter experience.
-
-*   🎵 **[Music Data Dashboard](https://github.com/TzeMingHo/Project-Music-Data)** | [Live Demo](https://music-data-reports.netlify.app/)
-    An individual data-analysis project designed to transform complex, high-volume datasets into clean user metrics.
-    *   **Data Pipelines:** Engineered data processing pipelines using native JavaScript array methods and maps to analyze massive raw JSON datasets.
-    *   **Analytics:** Developed custom algorithmic filtering to extract and pinpoint discrete time-based patterns, such as isolating specific 'Friday night' listening trends, improving visual reporting clarity.
-
+- **Languages:** TypeScript, JavaScript (ES6+), SQL, HTML5, CSS3, Python, Java *(currently learning)*
+- **Backend & Databases:** Node.js, Express, NestJS, PostgreSQL, Prisma
+- **Frontend:** React, Tailwind CSS, HTML5, CSS3
+- **Testing & Tools:** Jest, Node:Test, Git/GitHub, Docker, Ubuntu Linux
 
 ---
 
+## 🚀 Stand-Out Projects
 
-<!--
-**TzeMingHo/TzeMingHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤝 [Mentor Matching Platform](https://github.com/Zobeir-Rigi/Career-Mentors-Matching) | [Live Demo](https://mentormatching.grads.hosting.cyf.academy/)
 
-Here are some ideas to get you started:
+A full-stack platform designed to connect mentors and mentees and support the mentorship journey from profile creation through matching and active mentorship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Full-Stack Development:** Built features across React, TypeScript, Tailwind CSS, NestJS, PostgreSQL and Prisma, including authenticated role-based profiles, dashboards and mentorship lifecycle management.
+- **Data & API Architecture:** Implemented Prisma many-to-many relationships, transactional profile updates, DTO validation and strongly typed communication between the frontend and backend.
+- **Frontend & UX:** Developed reusable, responsive components and a Tailwind CSS design system with mobile layouts, light/dark themes and accessible interaction states for mentors, mentees and staff.
+
+---
+
+### 📅 [Days Calendar](https://github.com/MansoorM11/Days-calendar) | [Live Demo](https://day-calendar-project.netlify.app/)
+
+A collaborative tool for calculating complex recurring calendar dates and generating standardised schedule configurations.
+
+- **Core Logic:** Developed a date-calculation engine for recurring patterns such as *"Second Tuesday of October"*, including leap years and shifting month boundaries.
+- **Testing & Architecture:** Built shared date logic used by both the frontend and an automated iCal generator, backed by unit tests using `Node:Test`.
+- **Accessibility:** Achieved a **100% Lighthouse Accessibility score** using semantic HTML, ARIA attributes and keyboard-accessible controls.
+
+---
+
+### 📺 [TV Show Project](https://github.com/TzeMingHo/Project-TV-Show) | [Live Demo](https://cyf-tzemingho-tv.netlify.app/)
+
+A collaborative, responsive data explorer built with a teammate to retrieve and display television data from a third-party API.
+
+- **Performance:** Reduced unnecessary network requests by implementing client-side caching for API data.
+- **UX & State:** Built synchronised search and filtering state to make navigating large television datasets responsive and intuitive.
+
+---
+
+### 🎵 [Music Data Dashboard](https://github.com/TzeMingHo/Project-Music-Data) | [Live Demo](https://music-data-reports.netlify.app/)
+
+An individual data-analysis project that transforms raw listening data into useful user-facing metrics.
+
+- **Data Processing:** Built data-processing pipelines using JavaScript array methods and maps to analyse JSON datasets.
+- **Analytics:** Developed filtering logic to identify specific time-based patterns, including isolating *Friday-night listening trends* for clearer reporting.
+
+---
+
+## 🌱 Currently Learning
+
+I'm continuing to strengthen my understanding of:
+
+- Full-stack TypeScript development
+- Relational database design with PostgreSQL and Prisma
+- Automated testing and test architecture
+- Docker and application deployment
+- Java and object-oriented programming
+- Building maintainable software in collaborative Git workflows
+```
