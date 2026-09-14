@@ -1,4 +1,4 @@
-```markdown
+
 ## Hi there, I'm Brian 👋
 
 I'm a **software engineer in training at CodeYourFuture**, transitioning
