@@ -17,7 +17,7 @@ developing good software engineering practices.
 
 ## 📬 Let's Connect!
 
-I'm currently looking for a **junior software engineering role** where I can
+I'm currently looking for a **software engineering role** where I can
 contribute to real products while continuing to grow as a developer.
 
 - **Location:** Liverpool, UK — open to Hybrid / Remote
